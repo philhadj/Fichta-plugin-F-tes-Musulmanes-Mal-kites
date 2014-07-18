@@ -1,0 +1,26 @@
+echo '<style type="text/css">
+
+<h1><style type="text/css">
+<style>
+u {
+	text-align: center;
+}
+#Phadj ul li {
+	color: #FFF;
+	text-align: center;
+	font-weight: bold;
+	font-size:11px	
+}
+u {
+	color: #FFFFFF;
+}
+#Phadj {
+	text-align: center;
+	height: 798px;
+}
+</style>
+<div style="height: 30px;  font-size: 10px; font-family: Arial, Helvetica, sans-serif; text-decoration: none; z-index: 76; color: #d21034; display: inline; border-style: dashed; font-weight: bold;" onmouseover="document.getElementById(\'Phadj\').style.visibility=\'visible\';"> <u> Fêtes et Jours fériés <br>
+</div>
+<div style="background: #80ca46; position: absolute; top: 26px; z-index: 76; display: inline-block; margin: 0; padding: 0; visibility: hidden; text-align: left; cursor: pointer; border-radius: 5px 5px 5px 15px; box-shadow: inset 0px 0px 2px #5C982C; background-color: #006233; text-shadow: 1px 1px 1px #060; left: -36px; border: double 3px; width: 287px; margin-top: 5px; margin-left: 20px; height: 804px;" onmouseout="this.style.visibility=\'hidden\';" id="Phadj" >
+<div class="header" align="center">
+</div>
