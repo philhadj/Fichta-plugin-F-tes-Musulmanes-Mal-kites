@@ -10,7 +10,7 @@ Installation
 
 Here's a guide on how to install Fichta plugin in your WordPress site. If you want to run the Git version though, you have two options:
 
-    You can clone the GitHub repository: https://github.com/yoast/wordpress-seo.git
+    You can clone the GitHub repository: https://github.com/philhadj/Fichta-plugin-F-tes-Musulmanes-Mal-kites.git
     Downloading it directly unfortunately won't work as the .zip file doesn't contain the submodules.
 
 This will download the latest development version of Fichta plugin. While this version is usually stable, it is not recommended for use in a production environment.
